@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning C#, C++, Bash, Javascript, Oracle SQL
 - 🔭 I’m currently working on assignments and projects from school
 - 🤔 I’m looking for help with DevOPs on the field, and career pathway advice
+- ⚡ Fun fact: 🛹🏀💖
 <!--
 **Circarl/Circarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
