@@ -1,4 +1,4 @@
-![HelloWorldGIF](https://user-images.githubusercontent.com/94388078/227799146-ae459190-92c2-4cbf-8c8f-ae958cb815ce.gif)
+![DevGIF](https://user-images.githubusercontent.com/94388078/228046112-51c0c602-ec8b-4797-bf25-48cb9a753e5f.gif)
 
 
 - 🌱 I’m currently learning C#, C++, Bash/Linux, Javascript, Oracle SQL
