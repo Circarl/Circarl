@@ -1,5 +1,5 @@
-# Hi there 👋
-#### Welcome to my space!
+![HelloWorldGIF](https://user-images.githubusercontent.com/94388078/227799146-ae459190-92c2-4cbf-8c8f-ae958cb815ce.gif)
+
 
 - 🌱 I’m currently learning C#, C++, Bash/Linux, Javascript, Oracle SQL
 - 🔭 I’m currently working on assignments and projects from school
@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with DevOPs on the field, and career pathway advice
 - ⚡ Fun fact: 🛹🏀💖
 
-![HelloWorldGIF](https://user-images.githubusercontent.com/94388078/227799146-ae459190-92c2-4cbf-8c8f-ae958cb815ce.gif)
 
 
 
