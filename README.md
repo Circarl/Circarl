@@ -1,7 +1,7 @@
 ![DevGIF](https://user-images.githubusercontent.com/94388078/228046112-51c0c602-ec8b-4797-bf25-48cb9a753e5f.gif)
 
 
-- 🌱 I’m currently learning C#, C++, Bash/Linux, Javascript, Oracle SQL, Java, QGIS
+- 🌱 I’m currently learning C#, C++, Bash/Linux, Javascript, Oracle SQL, Java, Quantum GIS & Python
 - 🔭 I’m currently working on assignments and projects from school
 - 📫 How to reach me: email me at circarl@outlook.com
 - 🤔 I’m looking for help with DevOPs on the field, and looking for mentors in the field
