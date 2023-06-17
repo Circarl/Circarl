@@ -1,7 +1,8 @@
 ![DevGIF](https://user-images.githubusercontent.com/94388078/228046112-51c0c602-ec8b-4797-bf25-48cb9a753e5f.gif)
 
 
-- 🌱 I’m currently learning C#, Java, Bash/Linux, Javascript, Oracle SQL, Quantum GIS & Python
+- 🌱 I’m currently learning Java Programming, NodeJs Web Application, Oracle PL/SQL
+- 💡 I'm familiar with .NET C#, Web HTML CSS JS, Linux CLI, Quantum GIS, & Python
 - 🔭 I’m currently working on assignments and projects that are available.
 - 📫 How to reach me: email me at circarl@outlook.com
 - 👯 I’m looking to collaborate on software engineering projects, may it be SRS, or Software design.
