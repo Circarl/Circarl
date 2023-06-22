@@ -1,4 +1,5 @@
-![DevGIF](https://user-images.githubusercontent.com/94388078/228046112-51c0c602-ec8b-4797-bf25-48cb9a753e5f.gif)
+![JoyGIF](https://github.com/Circarl/Circarl/assets/94388078/cb89d0e4-606e-4a6d-9305-a781fb9c9790)
+
 
 
 - 🌱 I’m currently learning Java Programming, NodeJs Web Application, Oracle PL/SQL, Software UML Design
