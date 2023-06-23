@@ -10,7 +10,8 @@
 - 🤔 I’m looking for help with DevOPs on the field, and looking for mentors that will guide me through my software engineering journey
 - ⚡ Fun fact: 🛹 skateboarding 🏀 Timberwolves Fan 💖 Family
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Circarl&theme=tokyonight)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Circarl&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Circarl&langs_count=5&theme=tokyonight)]()
 
 
 
