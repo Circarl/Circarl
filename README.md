@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Java Programming, NodeJs Web Application, Oracle PL/SQL, Software UML Design
 - 💡 I'm familiar with .NET C#, Web HTML CSS JS, Linux CLI, Quantum GIS, & Python, Software Requirements
-- 🔭 I’m currently working on an SOS Emergency Project - Mobile Application
+- 🔭 I’m currently working on an SOS Emergency Project - Mobile Application (Specifically Software Design)
 - 📫 How to reach me: email me at circarl@outlook.com
 - 👯 I’m looking to collaborate on software engineering projects, may it be SRS, or Software Design
 - 🤔 I’m looking for help with DevOPs on the field, and looking for mentors that will guide me through my software engineering journey
