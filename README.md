@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning .NET, Software Testing & Quality Assurance, Angular Framework
+- 🌱 I’m currently learning .NET, Software Testing & Quality Assurance, Angular Framework, Project Management
 - 💡 I'm familiar with C#, Java Programming, MEAN stack (MongoDB, Express, Angular, NodeJS), Oracle PL/SQL, Basic Web (HTML CSS JS), Linux CLI, Quantum GIS, & Python, Software   
       Requirements/Specification & Design, Software UML Design
 - 🔭 I’m currently working on an SOS Emergency Project - Mobile Application (Specifically Software Design)
