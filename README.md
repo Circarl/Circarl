@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning React, Mastering MERN Stack Development
+- 🌱 I’m currently learning WMS, JD Edwards Enterprise, React, Mastering MERN Stack Development
 - 💡 I'm familiar with C#, Java Programming, MEAN stack (MongoDB, Express, Angular, NodeJS), Oracle PL/SQL, Basic Web (HTML CSS JS), Linux CLI, Quantum GIS, & Python, Software   
       Requirements/Specification & Design, Software UML Design, Software Testing & Quality Assurance, Angular Framework, Project Management
 - 🔭 I’m currently working on various projects mainly software development
