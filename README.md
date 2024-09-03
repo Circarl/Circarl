@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning WMS, JD Edwards Enterprise, & Agile Product Lifecycle Management
+- 🌱 I’m proficient with WMS, JD Edwards Enterprise, & Agile Product Lifecycle Management
 - 💡 I'm familiar with C#, Java Programming, MEAN stack (MongoDB, Express, Angular, NodeJS), Oracle PL/SQL, Basic Web (HTML CSS JS), Linux CLI, Quantum GIS, & Python, Software   
       Requirements/Specification & Design, Software UML Design, Software Testing & Quality Assurance, Angular Framework, Project Management
 - 📫 How to reach me: email me at circarl@outlook.com
