@@ -3,9 +3,9 @@
 
 
 - 🌱 I’m proficient with WMS, JD Edwards Enterprise, & Agile Product Lifecycle Management
-- 💡 I'm familiar with C#, Java Programming, MEAN stack (MongoDB, Express, Angular, NodeJS), Oracle PL/SQL, Basic Web (HTML CSS JS), Linux CLI, Quantum GIS, & Python, Software   
+- 💡 I'm familiar with C#, Java Programming, MEAN stack (MongoDB, Express, Angular, NodeJS), Oracle PL/SQL, Basic Web (HTML CSS JS), Linux CLI, Quantum GIS, Python, Software   
       Requirements/Specification & Design, Software UML Design, Software Testing & Quality Assurance, Angular Framework, Project Management
-- 📫 How to reach me: email me at circarl@outlook.com
+- 📫 How to reach me: circarl@outlook.com
 - 👯 I’m looking to collaborate on software engineering projects, may it be SRS, or Software Design
 - 🤔 I’m looking for help with DevOPs on the field, and looking for mentors that will guide me through my software engineering journey
 - ⚡ Fun fact: 🛹 skateboarding 🏀 Timberwolves Fan 🧱 Lego Builder 💖 Family
